@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "CommanderX16Expansion")(type "KiCad")(uri "/home/dylandevel/Documents/commander x16/cartridge/libraries/x16expansion-master/CommanderX16Expansion.kicad_sym")(options "")(descr ""))
+  (lib (name "CommanderX16Expansion")(type "KiCad")(uri "/home/dylandevel/Dev/kicad/commander-x16-open-cartridge/libraries/x16expansion/CommanderX16Expansion.kicad_sym")(options "")(descr ""))
 )
